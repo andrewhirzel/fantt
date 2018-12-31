@@ -23,16 +23,16 @@ Notes:
    7. I'll be overwriting the results into the first file name
 
 This is how you obtain the Watson API key file, for Fantt
-OK, You need to have a key file for Watson here.  and you need a LITE account.  
-LITE is good for 100 minutes per month.
-Now goto https://cloud.ibm.com/registration?target=%2Fapidocs
-You will enter a username and pw.
-Head off to your email, confirm the account.  They ask for your IBMid (yes it's your username). 
-Now, Create Resource in upper right. Scroll to find Speech to Text.  You only get one resource.
-Select that, and then in lower right, Create. 
-Follow directions, go to Dashboard, manage page, click show to view your credentials.
-Click Manage; Security, Platform API keys, Create.  Name the key, not YOUR name.
-Paste that key into a "Fantt_readme_support.txt" file which must be in your working folder. If it's missing, I create it.
+1. OK, You need to have a key file for Watson here.  and you need a LITE account.  
+2. LITE is good for 100 minutes per month.
+3. Now goto https://cloud.ibm.com/registration?target=%2Fapidocs
+4. You will enter a username and pw.
+5. Head off to your email, confirm the account.  They ask for your IBMid (yes it's your username). 
+6. Now, Create Resource in upper right. Scroll to find Speech to Text.  You only get one resource.
+7. Select that, and then in lower right, Create. 
+8. Follow directions, go to Dashboard, manage page, click show to view your credentials.
+9.Click Manage; Security, Platform API keys, Create.  Name the key, not YOUR name.
+10. Paste that key into a "Fantt_readme_support.txt" file which must be in your working folder. If it's missing, I create it.
 
 I'll create the file like this one, in your working directory.  
 Change what you want in that file, except it must have at least three lines with first four 
