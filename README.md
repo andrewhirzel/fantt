@@ -1,5 +1,5 @@
 # fantt
-Field Adio Notes Transcriber and Timestamper
+Field Audio Notes Transcriber and Timestamper
 
 Welcome to Field Audio Notes Transcriber and Timestamper v1.1.6
 The purpose is to take pre-recorded audio notes and 
