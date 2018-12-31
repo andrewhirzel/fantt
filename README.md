@@ -1,15 +1,15 @@
 # fantt
 Field Audio Notes Transcriber and Timestamper
 
-Welcome to Field Audio Notes Transcriber and Timestamper 
-The purpose is to take pre-recorded audio notes and 
+Welcome to Field Audio Notes Transcriber and Timestamper.
+The purpose is to take pre-recorded audio notes and
 produce a simple .csv file with timestamps and the spoken phrases
 using IBMs Watson AI.
 
 The output .csv will look like this:
-0		
-1.29	2.69	racing to the moon 
-3.7	4.96	on a Saturday night 
+0
+1.29	2.69	I'm a lumberjack
+3.7	4.96	and that' ok
 
 Note:
 1. Your data will not at all be considered private.  This is IBM's warning AND mine.
