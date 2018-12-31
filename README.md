@@ -21,7 +21,6 @@ Notes:
    6. Enter a blank enter-key when no more files to process
    7. I'll be overwriting the results into the first file name
 
-
 This is how you obtain the Watson API key file, for Fantt
    OK, You need to have a key file for Watson here.  and you need a LITE account
    LITE is good for 100 minutes per month.
