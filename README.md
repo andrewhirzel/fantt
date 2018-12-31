@@ -10,7 +10,7 @@ using IBMs Watson AI.  To get you interested, here's your sample output.
 
    0   
    1.29	2.69	I'm a lumberjack   
-   3.7	4.96	and that' ok
+   3.7	4.96	and that's ok
 
 Notes:
    1. Your data will not at all be considered private.  This is IBM's warning AND mine.
